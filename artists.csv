@@ -1,0 +1,75 @@
+,artist_uuid,person_id,artist_name,birthplace,gender
+0,fdaefca8-7ad4-4cda-82df-cd27193ad3af,18568,Zanabazar,,unknown
+1,f55a5646-1bdf-4c84-b9f3-f80cf049d66f,28243,Albert Renger-Patzsch,Würzburg,male
+2,0dbb68dd-fd1a-4635-b46b-668aff32506d,28241,Rembrandt Harmensz. van Rijn,Leiden,male
+3,3f205adf-cdd0-4ee3-92f6-a215fb4bccae,28089,Giovanni Battista Piranesi,"Mogliano Veneto, Italy",male
+4,d921401e-618b-444b-9c2d-55c80b9c92b8,52534,Vik Muniz,"São Paulo, Brazil",male
+5,5d0a55dc-a661-40ad-94de-b8f3db0821cd,33736,Gustave Courbet,"Ornans, France",male
+6,ad503ef2-2b2e-44fe-8dc8-83d5e16a3e08,28134,Nicolas Poussin,"Les Andelys, France",male
+7,4d3e85ca-d6ec-4ca7-a9cb-a7c6d4ea71af,26759,Jasper Johns,"Augusta, GA",male
+8,4d294c75-60b6-4559-b53c-ea8213e3a015,64838,Tim Rollins,"Pittsfield, ME",male
+9,4f5c40b5-f8bd-40fc-886f-94f9229e8047,19957,Reizei Tamehiro,,male
+10,3cebb7ca-8531-4873-9789-f67a9fa542b7,27349,Edouard Manet,Paris,male
+11,e11b4965-5a39-46d5-a06c-2be62454bb8f,28417,Edward Ruscha,"Omaha, NE",male
+12,3b1c6996-3a60-4383-8fd6-033f7310689c,25758,Rachel Harrison,"New York, New York",female
+13,d3cfe8fe-79a8-45fd-a212-0810398cb4fd,34503,Berenice Abbott,"Springfield, Ohio",female
+14,d6681f88-f526-4487-aefd-e26a50914240,50769,Raphaelle Peale,"Annapolis, MD",male
+15,ceb60b2b-8097-49ae-b0ed-ae9b7f21ef15,33266,Richard Tuttle,"Rahway, NJ",male
+16,b111a295-06b5-419b-92c3-0437c383a498,33167,Samuel Colman,"Portland, ME",male
+17,8b184d8d-8851-4aad-9f10-b7aa1fb4c2da,53176,Allan McCollum,Los Angeles,male
+18,02dad1b1-ac29-4228-a541-70505a653741,34771,Alfred Stieglitz,"Hoboken, N.J., USA",male
+19,191fb99e-ec57-4eb8-ae24-8a796244559c,34771,Alfred Stieglitz,"Hoboken, N.J., USA",male
+20,8c489c09-c1fd-40ef-9f54-336e8b3185d7,34896,Richard Misrach,"Los Angeles, California",unknown
+21,ab8d07f8-8af6-46e7-ac89-d1d6307b2505,33917,Chŏng Yusŭng (also known as Ch'ui-ŭn),,unknown
+22,74dc70d7-201b-477d-aa66-98dffb8adf2c,30951,Jenny Holzer,"Gallipolis, Ohio",female
+23,aede8394-0f46-4dd1-94a3-d76378f67a64,27494,Henri Matisse,"Cateau-Cambresis, France",male
+24,7dae1bf8-7a55-42a1-b234-0c5f490d0eb0,34771,Alfred Stieglitz,"Hoboken, N.J., USA",male
+25,a36824d8-1cf5-4df3-8143-cc2de4d3a311,29383,James Abbott McNeill Whistler,"Lowell, MA",male
+26,94c7c2fb-78e8-43d1-a4e8-61fe9a72e229,28064,Pablo Ruiz Picasso,"Malaga, Spain",male
+27,f30b00c8-156f-4545-8662-d9b5cdd339b2,26608,Roni Horn,New York NY,female
+28,b76e1693-d64c-4ba6-852b-8c39661a422a,33623,Glenn Ligon,"Bronx, NY",male
+29,f120924e-8265-4c80-bc83-4390f05242a6,26916,Paul Klee,"Münchenbuchsee near Bern, Switzerland",male
+30,886d80d3-1bb2-49b4-9a3d-6b12c54d41da,18253,Joannes van Doetecum,Deventer,male
+31,5bf62c41-7d34-4d82-a8fa-0ccc58243bb1,28341,Roelant Roghman,"Amsterdam, Netherlands",unknown
+32,16160ef5-2bf6-4f49-b870-cc08ba34e1c0,31879,Charles-Marie Dulac,"Paris, France",male
+33,a26e2875-2b45-41dd-ac20-5f0aaa42b5f3,29383,James Abbott McNeill Whistler,"Lowell, MA",male
+34,395a67f8-268b-46c3-9902-cc31e985d843,53243,Anson Dickinson,"Milton, CT",male
+35,cf0d60b3-5fbb-4d64-be2a-3f31ee28e68f,31319,Coryn Boel,,male
+36,1330f627-9c4b-489c-b380-257b66672743,27702,John Hamilton Mortimer,"Eastbourne, England",male
+37,de43aa85-8234-493d-b939-a7350a11a0c2,35112,Jan Hendrik Weissenbruch,"The Hague, The Netherlands",male
+38,4d176160-76d0-4176-847f-23969ea51402,34771,Alfred Stieglitz,"Hoboken, N.J., USA",male
+39,e8dc3ace-1c48-4d51-bb98-3f611ac8c728,54118,Fukami Sueharu,"Kyoto, Japan",male
+40,fe3c9d77-30c1-426b-94eb-8e04029d542f,22094,Harry Annas,,male
+41,a50411ee-9988-4d3e-8806-5d0b3155282d,50996,Strike Poster Workshop,,unknown
+42,a1b61d42-dc9e-4e7d-a578-27f2bb7dbfd2,33430,John Singleton Copley,"Boston, MA",male
+43,4718a664-a0c8-4064-9d8a-f557474b483e,22794,Hendrick Goltzius,Mühlbracht,male
+44,a29345ed-b569-4153-bd2c-d2a236a42352,29383,James Abbott McNeill Whistler,"Lowell, MA",male
+45,d4e19695-f23c-47b2-8fbe-82ce2a18a0f9,26501,Winslow Homer,"Boston, MA",male
+46,ea0429b2-6ec0-40a3-908d-fcad8709b07c,52692,Moyra Davey,"Montreal, Canada",female
+47,ba4de4de-b182-4d53-89cc-a5fba32a8fb0,21587,Yi Ha-ŭng (also known as Taewŏn’gun),,male
+48,976dbc84-8c4e-4355-b5f7-8f0efcdc4af1,26047,Candida Höfer,"Eberswalde, Germany",female
+49,c2526949-45a2-4ecd-889d-7c5753aa4f9f,28639,Ben Shahn,"Kovno (now Kaunas), Lithuania",male
+50,1632d088-f49a-4691-8693-451fd8b13766,27252,Tullio Lombardo,,male
+51,59f31bbf-7971-4770-a86a-898ff5576b5d,27278,Hans Sebald Beham,Nuremberg,male
+52,8cb13ba9-fff2-451c-a656-1d536805637b,51278,Joshua Johnson,unknown,unknown
+53,78fda5af-fc46-46d7-90b0-6bb0c80c4dcf,50787,Elizabeth Catlett,"Washington, DC",female
+54,e53c0864-b16a-4dac-b78e-32f405d70d20,20570,Cai Guo-Qiang,"Quanzhou, China",male
+55,9d1ab74b-dc04-45d0-b67a-92f43774853d,28495,John Singer Sargent,"Florence, Italy",male
+56,6af79b1f-85ea-410c-9b05-1ed6cbe19fb3,30700,Tosa Mitsunobu,,male
+57,eba8cba1-3e46-482e-8399-a9d5fb3bfbcd,33571,Fra Angelico,"nr. Vecchio, Italy",unknown
+58,b818eb3b-cafe-43f5-996c-8dee1efbb9ba,29190,Jan van de Velde II,"Rotterdam(?), Netherlands",male
+59,261e627d-5c24-4199-bde9-c4518903ccf4,34833,F. Benedict Herzog,New York City,male
+60,02598525-cd5c-41e4-b89e-9b5c1f7e571b,31901,Richard Earlom,"London, England",male
+61,bb9cb63a-f7fb-41a6-a403-6f8c406b9bad,28734,Aaron Siskind,"New York, N.Y., USA",male
+62,687d335b-99c7-4156-982b-c9932ff04ea2,35269,Theodore Roszak,"Poznan, Poland",male
+63,41be9715-5a9b-481c-8acb-53305de4690a,28834,Edward Steichen,Luxembourg,male
+64,b7b434b0-8f99-4e23-939d-9f25e4f11078,19806,Ignace-Henri-Jean-Théodore Fantin-Latour,"Grenoble, France",male
+65,f4761d77-4c89-4041-9f05-60b18c741bd9,33623,Glenn Ligon,"Bronx, NY",male
+66,fd0018cf-0fbf-4e6e-b9e7-ad98ba5a681d,20002,Lyonel Feininger,"New York, NY",male
+67,49122c00-7635-4f0b-9752-eb06d9715875,34435,Francis Frith,"Chesterfield, Derbyshire, England",male
+68,46dd8515-f2ac-4b2b-a4ef-8591524c88bf,51752,Jess,"Long Beach, CA",male
+69,e01e08a7-a1e9-4baa-bf58-0d47e1d2d64c,52534,Vik Muniz,"São Paulo, Brazil",male
+70,841118d7-b850-4cdf-bdb3-6e94963a4b21,18077,Gary Schneider,"East London, South Africa",male
+71,d2e4ffd9-9a00-4815-9891-aa29d2cd5791,28064,Pablo Ruiz Picasso,"Malaga, Spain",male
+72,709fd3b9-bca9-427e-adfc-ab58ea3d26df,18774,Marcel Duchamp,"Blainville, Normandy, France",male
+73,17dfd45a-48d9-4444-b0e4-bd0f8bf7d15c,20267,Andreas Gursky,"Leipzig, Germany",male
